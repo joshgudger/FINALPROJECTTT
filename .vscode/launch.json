@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Hangman",
+            "request": "launch",
+            "mainClass": "Hangman",
+            "projectName": "PROJECT3.0_bdb2e889"
+        },
+        {
+            "type": "java",
+            "name": "hangman",
+            "request": "launch",
+            "mainClass": "hangman",
+            "projectName": "PROJECT3.0_bdb2e889"
+        },
+        {
+            "type": "java",
+            "name": "Launch hangmen",
+            "request": "launch",
+            "mainClass": "hangmen",
+            "vmArgs": "--module-path C:/Users/joshgudger/Documents/javafx-sdk-23.0.1/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
